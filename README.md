@@ -26,4 +26,4 @@ Completing the Azure Skillable Labs has significantly enhanced my skills in data
 
 **Full Project work book [here.](https://drive.google.com/file/d/1DYoDWbDC9-9cOobreAbX3gZ1cDrP6WpJ/view?usp=drive_link)**
 
-**Click [here](https://github.com/Alamin-analyser/Data-Management-in-Azure) to see another Python Project.**
+**Click [here](https://github.com/Alamin-analyser/Data-Management-in-Azure) to see another Azure Project.**
