@@ -5,7 +5,9 @@
 In this project, I completed the Azure Skillable Labs, gaining hands-on experience in data analytics within the Azure ecosystem. Through a series of labs, I explored the capabilities of Azure for working with both relational and non-relational data, as well as its tools and features for conducting advanced data analytics. This project enhanced my skills in managing and analysing data in the cloud, particularly within Azure's powerful data analytics environment.
  
 **Lab 1: Explore Relational Data in Azure**
+
 **Lab 2: Explore Non-Relational Data in Azure**
+
 **Lab 3: Explore Data Analytics in Azure**
 
 **Skills Developed:** Throughout the completion of the Azure Skillable Labs, I developed key skills in cloud-based data management and analytics:
